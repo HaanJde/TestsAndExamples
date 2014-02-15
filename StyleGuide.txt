@@ -1,0 +1,44 @@
+The twenty-ninth Buddha.
+
+   The java master Bazen was called to deliver the final verdict on two young
+coder monks, who were caught fighting on the square before the Iron Bones' 
+temple.
+
+   He instantly delivered a punishment fitting the crime: "You are going to 
+write, in binary, a COBOL compiler with operator overloading and have it 
+accepted by the COBOL Task Group as the reference implementation. Deliver it 
+tomorrow evening. I will grant you some leeway on the comittee's acceptance: for
+that you will have a day extra."
+
+   The two youngsters rocked back on their heels. The dumbest of the two then 
+inquired wether the master could also settle their dispute: wether or not to use
+camel-casing.
+
+   "I believe the twenty-ninth Buddha, Lao Tzu, holied be his name, was again
+suffering from a serious hangover from that Finish wodka of his, when he wrote 
+'Hungarian notation is brain damaged. The compiler knows the types anyway and 
+can check those, and it only confuses the programmer'. It's not about the 
+compiler but about the coder. We, humble mortals, are limited in our 
+possibilities to obtain information from code. All-lower-case code can only be
+understood by reading from the begining untill the end. The only help we have is
+indentation. A human mind does not work that way. 'Where is the heart of this
+function, what does it do?', 'Where is that object defined', 'What's this 
+parameter? A struct, an int, function or macro?' You go looking for definitions 
+and since they can be anywhere (Thanks, Bao Shinzen!), you browse, you look for 
+something similar, something that stands out. And since our minds can easily do 
+something like 'Ok, now focus on uppercase... ok, found, now focus on purple', 
+we should use that. Use it, as anything that can help us understand code faster 
+in only the slightest way, should be profitted from untill blood drips from it. 
+And if you don't like it: turn it of. As on the camel-casing: however unlikely, 
+maybe you will in the future initiate a project on which you can decide on the 
+style guide. Choose wisely. Untill then: follow the one of the project."
+
+   The master had actually turned purple himself when he finished. "Now I am 
+going to adjust your penance. Implement a multiplatform -and yes, I do mean 
+Windows too!- graphical code editor with preprocessor, syntax, type and object 
+coloring, able to differentiate on standard, library, project, file and local 
+kinds and key bindings for vi, emacs and brief. All of them, and by tomorrow 
+morning!" 
+
+   When they fled his office they heard him muttering something about a 
+"... serious case of cargo culting ...", but they didn't understand.
